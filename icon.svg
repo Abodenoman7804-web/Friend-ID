@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="28" fill="#059669"/>
+  <path d="M64 28c-19.9 0-36 14.6-36 32.6 0 10.2 5.4 19.3 13.8 25.2-.5 3.2-2.5 8.9-7.8 13.2 0 0 9.6.6 17.4-4.4 3.9 1.1 8.1 1.7 12.6 1.7 19.9 0 36-14.6 36-32.6S83.9 28 64 28z" fill="#fff"/>
+  <text x="64" y="74" font-size="30" font-weight="800" text-anchor="middle" fill="#059669" font-family="sans-serif">ID</text>
+</svg>

@@ -1,0 +1,14 @@
+{
+  "name": "Friend ID",
+  "short_name": "Friend ID",
+  "description": "مراسلة ذكية بالبريد والمعرّف الفريد",
+  "start_url": "/chat",
+  "display": "standalone",
+  "background_color": "#0b141a",
+  "theme_color": "#059669",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
